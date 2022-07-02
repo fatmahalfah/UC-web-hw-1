@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(236, 232, 232);
+    margin: 0%;
+}
+
+.game{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.list{
+    color: rgb(54, 54, 196);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Gentium Book Plus', serif;
+}
+
+.pubge{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.containar{
+    display: flex;
+justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+
+.parghraph{
+    font-size: 30px;
+    font-family: 'Gentium Book Plus', serif;
+    font-weight: 700px;
+}
+a{
+    text-decoration: none;
+}
